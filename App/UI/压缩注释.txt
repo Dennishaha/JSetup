@@ -1,0 +1,6 @@
+path=%temp%\JSetupApp
+Setup=JSetupInfo\安装1.bat
+Title=正在准备...
+Silent=2
+Overwrite=1
+Delete=*
